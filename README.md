@@ -1,8 +1,7 @@
 # CS4240_group92
 Repository from group 92 of the course Deep Learning 
 
-
-
+The files are supportd by Jupyter notebook. code_mutation_simplified.ipynb contains a directly runable script which has is a single-headed mutation of the DECODE archticture. For the tripple-headed code you have to copy-paste the class UNet(nn.Module) from the file code_tripple-headed.ipynb into the code_single-headed.ipynb. 
 
 
 
