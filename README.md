@@ -13,6 +13,15 @@ The files are supportd by Jupyter notebook. code_mutation_simplified.ipynb conta
 
 
 Installed packages (retrieved with command > pip list): 
+
+![image](https://user-images.githubusercontent.com/70945833/115020789-58c04280-9ebb-11eb-93ac-608384544122.png)
+![image](https://user-images.githubusercontent.com/70945833/115020889-860cf080-9ebb-11eb-9aca-fb8b12171867.png)
+![image](https://user-images.githubusercontent.com/70945833/115020929-9329df80-9ebb-11eb-97a4-b0ce9f822c14.png)
+
+or:
+
+
+
 Package                       Version
 ----------------------------- -------------------
 absl-py                       0.12.0
